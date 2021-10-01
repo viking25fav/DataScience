@@ -104,6 +104,3 @@ boxplot(dados$Vendas_Cafe~dados$Promocao,
     xlab = 'Promoção',
     ylab = 'Vendas',
     main = 'Vendas com promoção vs Vendas sem promoção')
-
-
-
