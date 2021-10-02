@@ -13,7 +13,7 @@ Para confirmar essas suspeitas, foi reunido em um conjunto dados um histórico c
 
 ▪ Ar Condicionado (variável categórica com dois níveis) – Nos informa se o veículo alugado tinha ar-condicionado ou não;
 
-▪ Quadrimestre (variável categórica com três níveis) – Informa se aquela locação ocorreu no primeiro, segundo ou terceiro quadrimestre do ano;
+▪ Quadrimestre (variável categórica com três níveis) – Informa se a locação ocorreu no primeiro, segundo ou terceiro quadrimestre do ano;
 
 ▪ Idade do Locatário (variável discreta medida em anos) – Nos informa qual a idade do indivíduo que realizou a locação;
 
