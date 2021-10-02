@@ -17,5 +17,5 @@ Para confirmar essas suspeitas, foi reunido em um conjunto dados um histórico c
 
 ### Objetivo
 
-▪ Análise exploratória, teste de hipóteses, correlação e regressão.
+▪ Análise exploratória, teste de hipóteses, correlação e regressão
 ▪ Encontrar insights com relação aos dados apresentados.
