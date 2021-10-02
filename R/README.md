@@ -2,3 +2,4 @@
 #### Projeto desenvolvido em R com algoritmo de Machine Learning (Random Forest) para predição de pagamento de clientes.
 
 ## Projeto 2:
+#### Análise exploratória, teste de hipóteses, correlação e regressão sobre um dataset de uma empresa de aluguel de veículos.
